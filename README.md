@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-## Project Overview
+# Introduction
 
 Speech Emotion Recognition (SER) is a project that aims to recognize emotions from speech using machine learning techniques. The system processes audio inputs and classifies emotions such as happy, sad, angry, etc. The project utilizes Python and key libraries such as TensorFlow, Librosa, and Scikit-learn.
 
@@ -16,3 +16,4 @@ Python
 - TensorFlow
 - Jupyter Lab
 - Scikit-learn
+
