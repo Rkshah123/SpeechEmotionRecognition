@@ -8,7 +8,8 @@ Speech Emotion Recognition (SER) is a project that aims to recognize emotions fr
 
 The goal of this project is to build a model that can accurately identify emotions from speech using the RAVDESS dataset. The model employs an MLP Classifier for classification and is trained on extracted features from the dataset.
 
-
+### Language:
+Python
 ### Software:
 
 - Python IDE
